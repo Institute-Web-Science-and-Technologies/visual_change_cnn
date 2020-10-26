@@ -1,3 +1,6 @@
+# Copyright (C) 2020 Daniel Vossen
+# see COPYING for further details
+
 from colorama import Fore, Style
 
 

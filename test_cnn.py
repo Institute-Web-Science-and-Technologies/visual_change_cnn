@@ -1,3 +1,6 @@
+# Copyright (C) 2020 Daniel Vossen
+# see COPYING for further details
+
 from pathlib import Path
 import cv2
 import sys

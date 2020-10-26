@@ -1,3 +1,6 @@
+# Copyright (C) 2020 Daniel Vossen
+# see COPYING for further details
+
 def get_all_users():
     return [
         'p1',
